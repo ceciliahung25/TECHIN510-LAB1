@@ -7,5 +7,5 @@ st.caption('A designer who aspires to become an anthropologist.')
 
 
 st.subheader('Education', divider='rainbow')
-st.subheader('_Streamlit_ is :blue[cool] :sunglasses:')
+st.subheader('Tongji University, Bachelor of Arts, Humanities Experimental Class 09/2017 - 09/2018')
 
