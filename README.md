@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a profile page for Cecilia.
+🥳 This is a profile page for Cecilia.
 
 ## How to run
 
@@ -32,6 +32,9 @@ streamlit run app.py
 
 ## Next Steps
 1.Deepen proficiency in Streamlit to enhance its application in the creation of designer portfolios.
+
 2.Acquire proficiency in the Visual Studio Code (VSCode) environment and command-line operations.
+
 3.Advance my expertise in Python programming to augment development skills.
+
 4.Prepare for the forthcoming session on Accessing Web Resources with Python.
