@@ -4,7 +4,7 @@
 
 🥳 This is a profile page for Cecilia.
 
-## How to run
+## How to Run
 
 
 ```
