@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.image('.images/cc.png', width=200)
+st.image('./images/cc.png', width=200)
 st.title("👋🏻 Hi, my name is Cecilia!")
 st.caption('I would describe myself as —— A designer who aspires to become an anthropologist:)')
 
